@@ -1,0 +1,180 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    
+<meta charset="utf-8" >
+
+<title>关于我 - lzcAbout | lzcAbout</title>
+<meta name="description" content="">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://about.lzc256.com/favicon.ico?v=1614391842704">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="stylesheet" href="https://about.lzc256.com/styles/main.css">
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+
+
+
+  </head>
+  <body>
+    <div id="app" class="main">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="https://about.lzc256.com">
+        <img class="avatar" src="https://about.lzc256.com/images/avatar.png?v=1614391842704" alt="" width="32px" height="32px">
+      </a>
+      <a href="https://about.lzc256.com">
+        <h1 class="site-title">lzcAbout</h1>
+      </a>
+    </div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
+  </div>
+</div>
+
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
+      
+    </div>
+  </div>
+</transition>
+
+
+      <div class="content-container">
+        <div class="post-detail">
+          
+          <h2 class="post-title">关于我 - lzcAbout</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2021-02-27</span>
+            
+          </div>
+          <div class="post-content">
+            <h2 id="基本信息">基本信息</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">键</th>
+<th style="text-align:center">值</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">职务</td>
+<td style="text-align:center">学生</td>
+</tr>
+<tr>
+<td style="text-align:center">地址</td>
+<td style="text-align:center">广东佛山</td>
+</tr>
+</tbody>
+</table>
+<h2 id="网站">网站</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">网站</th>
+<th style="text-align:center">描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><a href="https://www.lzc256.com">lzcBlog</a></td>
+<td style="text-align:center">一个穷困潦倒苦逼学生的打脸日常 TwT 欢迎来此！</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://tools.lzc256.com/">lzcTools</a></td>
+<td style="text-align:center">提供一些实用小工具和 API</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://about.lzc256.com/">lzcAbout</a>（本站）</td>
+<td style="text-align:center">关于页</td>
+</tr>
+</tbody>
+</table>
+<h2 id="联系方式">联系方式</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">键</th>
+<th style="text-align:center">值</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">邮件</td>
+<td style="text-align:center"><a href="mailto:i@lzc256.com">i@lzc256.com</a></td>
+</tr>
+<tr>
+<td style="text-align:center">网站</td>
+<td style="text-align:center">如上所述</td>
+</tr>
+<tr>
+<td style="text-align:center">Telegram</td>
+<td style="text-align:center"><a href="https://t.me/lzc256">@lzc256</a></td>
+</tr>
+<tr>
+<td style="text-align:center">微信 / QQ</td>
+<td style="text-align:center">请通过如上任意一种方式联系我获取</td>
+</tr>
+</tbody>
+</table>
+
+          </div>
+        </div>
+
+        
+      </div>
+
+      
+
+      <div class="site-footer">
+  <div class="slogan"></div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://about.lzc256.com/atom.xml" target="_blank">RSS</a>
+</div>
+
+
+    </div>
+    <script type="application/javascript">
+
+hljs.initHighlightingOnLoad()
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+  </body>
+</html>

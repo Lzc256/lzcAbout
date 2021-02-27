@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://about.lzc256.com</id>
+    <title>lzcAbout</title>
+    <updated>2021-02-27T02:11:10.671Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://about.lzc256.com"/>
+    <link rel="self" href="https://about.lzc256.com/atom.xml"/>
+    <logo>https://about.lzc256.com/images/avatar.png</logo>
+    <icon>https://about.lzc256.com/favicon.ico</icon>
+    <rights>All rights reserved 2021, lzcAbout</rights>
+    <entry>
+        <title type="html"><![CDATA[lzcCFNode - lzcAbout]]></title>
+        <id>https://about.lzc256.com/tools-lzccfnode/</id>
+        <link href="https://about.lzc256.com/tools-lzccfnode/">
+        </link>
+        <updated>2021-02-27T02:01:52.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="更新日志">更新日志</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">日期</th>
+<th style="text-align:center">版本</th>
+<th style="text-align:center">描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">20200802</td>
+<td style="text-align:center">v1.1</td>
+<td style="text-align:center">工具发布。</td>
+</tr>
+<tr>
+<td style="text-align:center">使用 H5 筛选节点</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center">20200813</td>
+<td style="text-align:center">v1.2</td>
+<td style="text-align:center">更新节点；开启 API；更新页脚样式；添加复制按钮；更新节点提示；添加节点评分显示</td>
+</tr>
+<tr>
+<td style="text-align:center">20200913</td>
+<td style="text-align:center">v1.2.1.1</td>
+<td style="text-align:center">更新 35 个节点，清除 8 个无效节点</td>
+</tr>
+<tr>
+<td style="text-align:center">20210227</td>
+<td style="text-align:center">v1.2.1.2</td>
+<td style="text-align:center">更新节点算法，新增 77 个节点，清除无效节点</td>
+</tr>
+</tbody>
+</table>
+<h2 id="links">Links</h2>
+<p>作者：<a href="https://www.lzc256.com">lzc256</a><br>
+框架：<a href="https://www.mdui.org">MDUI</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于我 - lzcAbout]]></title>
+        <id>https://about.lzc256.com/i/</id>
+        <link href="https://about.lzc256.com/i/">
+        </link>
+        <updated>2021-02-27T01:32:16.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="基本信息">基本信息</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">键</th>
+<th style="text-align:center">值</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">职务</td>
+<td style="text-align:center">学生</td>
+</tr>
+<tr>
+<td style="text-align:center">地址</td>
+<td style="text-align:center">广东佛山</td>
+</tr>
+</tbody>
+</table>
+<h2 id="网站">网站</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">网站</th>
+<th style="text-align:center">描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><a href="https://www.lzc256.com">lzcBlog</a></td>
+<td style="text-align:center">一个穷困潦倒苦逼学生的打脸日常 TwT 欢迎来此！</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://tools.lzc256.com/">lzcTools</a></td>
+<td style="text-align:center">提供一些实用小工具和 API</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://about.lzc256.com/">lzcAbout</a>（本站）</td>
+<td style="text-align:center">关于页</td>
+</tr>
+</tbody>
+</table>
+<h2 id="联系方式">联系方式</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">键</th>
+<th style="text-align:center">值</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">邮件</td>
+<td style="text-align:center"><a href="mailto:i@lzc256.com">i@lzc256.com</a></td>
+</tr>
+<tr>
+<td style="text-align:center">网站</td>
+<td style="text-align:center">如上所述</td>
+</tr>
+<tr>
+<td style="text-align:center">Telegram</td>
+<td style="text-align:center"><a href="https://t.me/lzc256">@lzc256</a></td>
+</tr>
+<tr>
+<td style="text-align:center">微信 / QQ</td>
+<td style="text-align:center">请通过如上任意一种方式联系我获取</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    </entry>
+</feed>
